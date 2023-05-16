@@ -15,7 +15,7 @@
             
             var u = getQueryVariable('u');
             $.ajax({
-                url: "https://dwz.chuai6.cn/github.php?act=geturl&u="+u,
+                url: "https://zhong.369zpw.com/github.php?act=geturl&u="+u,
                 type: "get",
                 dataType: "json",
                 success: function(result) {
